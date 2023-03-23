@@ -99,16 +99,16 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-              PWA Text Editor
+              Tabl: Boardgame App
               </span>
-              <p className='text-center'>PWA Text Editor is a simple, offline-capable text editor that you can use in your browser</p>
+              <p className='text-center'>This is a full-stack web application built using the MERN (MongoDB, Express, React, and Node.js) stack, which utilizes the Board Game Atlas API to provide users with a platform to search for and purchase board games.</p>
               <div className='pt-8 text-center'>
-                <a href='https://iamlucho-text-editor.herokuapp.com/' target='_blank'>
+                <a href='https://limitless-sea-74669.herokuapp.com/' target='_blank'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/iamlucho/PWA-Text-Editor' target='_blank'>
+                <a href='https://github.com/Barrerse/Table/ ' target='_blank'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
